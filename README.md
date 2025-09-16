@@ -1,6 +1,7 @@
 📊 Loan Default Analysis Report (Power BI)
 This project presents an interactive Power BI report designed to analyze and visualize loan default patterns across various applicant demographics, financial profiles, and time periods. The report is divided into three major sections:
 
+
 📁 Report Sections & Visuals
 
 ![Screenshot 2025-06-12 140613](https://github.com/user-attachments/assets/aff1139f-7920-4394-9d5b-90929110dc9c)
